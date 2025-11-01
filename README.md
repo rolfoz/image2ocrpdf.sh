@@ -1,0 +1,1 @@
+This bash script is intended for debian based distros. It will download the required packages. When run it will convert a folder of images into pdf files with the ocr text embedded within them. It will ask for the source and destination folders when run.
